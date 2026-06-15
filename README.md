@@ -221,7 +221,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name** - [Your GitHub](https://github.com/YOUR_USERNAME)
+HemanthDommeti * - [Your GitHub](https://github.com/HemanthDommeti)
 
 Feel free to fork, use, and build upon this project!
 
